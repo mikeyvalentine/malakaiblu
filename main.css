@@ -1,0 +1,58 @@
+*{ padding: 0; margin: 0 }
+
+body{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#maindiv{
+    position: relative;
+    margin: 200px;
+}
+#titlediv{
+    margin-bottom: 20px;
+}
+#titlediv a{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+#headingdiv{
+    margin: 10px 0 10px 0;
+}
+#headingdiv a{
+    font-size: 20px;
+}
+#headingdiv a:hover{
+    color: red;
+}
+#formdiv{
+    margin-top: 20px;
+}
+#formdiv p{
+    font-size: 14px;
+}
+#emailbtn{
+    width: 50px;
+    margin: 8px;
+}
+#emailbtn:hover{
+    background-color: pink;
+}
+#maindiv img{
+   margin-bottom: 80px;
+}
+#maindiv iframe{
+    margin: 30px;
+}
+#homelink{
+    position: relative;
+    font-family: sans-serif;
+    font-weight: bold;
+    top: 20px;
+}
+#homelink:hover{
+    color: red;
+}
