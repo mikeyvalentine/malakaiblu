@@ -18,13 +18,13 @@ a{
     font-family: sans-serif;
     font-weight: bold;
     font-size: 30px;
-    font-style: italic;
 }
 #headingdiv{
     margin: 10px 0 10px 0;
 }
 #headingdiv a{
     font-size: 20px;
+    font-style: italic;
 }
 #headingdiv a:hover{
     color: red;
